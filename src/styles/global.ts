@@ -11,7 +11,9 @@ export const GlobalStyle = createGlobalStyle`
       --subtitle: #659b9d;
       
       --background: #c5e4e7;
-      --shape: #f3f8fb;
+      --shape: #fff;
+
+      --active: #9fe8df;
     }
 
     * {
